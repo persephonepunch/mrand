@@ -6,6 +6,10 @@ npm install
 
 Build File with     "build": "npm run bootstrap && next build"
 
+npm run build
+
+npm run start to preview on desktop
+
 Deploy to Vercel/Netlify
 
 Create a webhook and Next JS file will publish with Collections everytime you update linked Webflow Project
